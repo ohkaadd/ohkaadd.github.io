@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "new at cyber reading room"
+title:  "2014-04-25-new-2014-4-25"
 date:   2014-04-25 21:40:15
 categories: jekyll update
 --- 
+"dianziyuelanshi"
 
 AFTER MY PHONE MOUNT-POINT OF THE KILI-USB WRITE(2014/4/24)
 
