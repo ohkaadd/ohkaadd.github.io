@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "IMPORTANT_4_23_intrigue"
+title:  "2014-04-23-IMPORTANT-4-23-intrigue"
 date:   2014-04-23 06:55:00
 categories: jekyll update
 --- 

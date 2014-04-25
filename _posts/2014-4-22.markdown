@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2014_4_22"
+title:  "2014-4-22"
 date:   2014-04-24 04:29:00
 categories: jekyll update
 --- 

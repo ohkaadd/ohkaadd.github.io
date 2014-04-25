@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2014_4_22_zhengfuzhe"
+title:  "2014-4-22-zhengfuzhe"
 date:   2014-4-22 08:22:00
 categories: jekyll update
 --- 

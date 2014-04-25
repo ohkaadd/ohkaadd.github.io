@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2014_4_21_newer-baidunews_control"
+title:  "2014-4-21-newer-baidunews-control"
 date:   2014-04-22 08:12:00
 categories: jekyll update
 --- 
